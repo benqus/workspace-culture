@@ -1,4 +1,9 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
+Generated with <img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
+
+Contributors:
+- Philip Saxon
+- Nickolas Steffen
+- Bence Kormos
 
 # Preserving Workplace Culture in an Era of AI Integration: Strategies for Maintaining Human Connection
 
